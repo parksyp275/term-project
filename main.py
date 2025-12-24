@@ -1,3 +1,11 @@
+"""
+[2025-2학기 파이썬 프로그래밍 최종 프로젝트]
+- 프로젝트명: Global IT Job Scout
+- 학번: 2025006260
+- 이름: 박소영
+- 제출일: 2025년 12월 24일
+"""
+
 import requests
 import pandas as pd
 import matplotlib.pyplot as plt
